@@ -1,2 +1,22 @@
-# sudan-humanitarian-analysis
-Data analysis of Sudan's 2025 humanitarian crisis using UN OCHA official data.  Includes data visualization of people in need, sector budgets, and funding gaps.  Built with Python &amp; Pandas in Google Colab.
+# 🌍 Sudan Humanitarian Crisis — Data Analysis 2025
+
+A data analysis project based on official UN OCHA data 
+from the Sudan Humanitarian Needs and Response Plan 2025.
+
+## 📊 What's inside?
+- People in Need vs People Targeted by Sector
+- Budget Required by Sector
+- Humanitarian Funding Gap (27% funded only)
+
+## 🛠️ Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Google Colab
+
+## 📁 Data Source
+UN OCHA — Sudan HNRP 2025
+https://www.unocha.org/sudan
+
+## 👩‍💻 Author
+Amany Abozaid
